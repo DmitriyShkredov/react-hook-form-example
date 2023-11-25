@@ -11,10 +11,13 @@
   },
   "dependencies": {
     "@andylacko/vite-svg-react-loader": "^3.0.16",
+    "@hookform/resolvers": "^3.3.2",
     "@svgx/vite-plugin-react": "^1.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "vite-plugin-svgr": "^3.3.0"
+    "react-hook-form": "^7.48.2",
+    "vite-plugin-svgr": "^3.3.0",
+    "yup": "^1.3.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
