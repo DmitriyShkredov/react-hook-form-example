@@ -2,7 +2,7 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-hook-form-example/
 
-#### `Телеграм:` [@tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
+#### `Телеграм:` [@tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik/33)
 
 #### `Видео:` [YouTube](https://youtu.be/MsEUD95Yj-8) | [VK Видео](https://vk.com/video-222570561_456239065) | [Дзен](https://m.dzen.ru/video/watch/6561c1009c36531d97a7cfd9) | [RuTube](https://rutube.ru/video/be1c0e6207b53c0b351c71f838fcf6a0/)
 
